@@ -1,0 +1,5 @@
+__pycache__/
+*.npy
+out/
+check_cells.json
+master96.json
